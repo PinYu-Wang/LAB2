@@ -28,7 +28,8 @@ param:
 --weight_decay: L2 regularization (default: 0.001)    
 --save_dir: directory to save results (default: ./result)       
 
-example: python main.py --model EEGNet --batch_size 64 --num_epochs 150
+example:     
+python main.py --model EEGNet --batch_size 64 --num_epochs 150
 
 
 
