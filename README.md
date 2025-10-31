@@ -5,13 +5,13 @@ EEG Classification with BCI competition dataset.
 Python 3.8+ and the following packages: torch, numpy, pandas, matplotlib      
 
 ## File
--data/:     
-  -EEG dataset files    
--models/:    
-  -EEGNet.py: EEGNet model definition    
-  -DeepConvNet.py: DeepConvNet model definition    
--dataloader.py: Dataset reading and preparation    
--main.py: Main script for training and testing    
+- data/:     
+  - EEG dataset files    
+- models/:    
+  - EEGNet.py: EEGNet model definition    
+  - DeepConvNet.py: DeepConvNet model definition    
+- dataloader.py: Dataset reading and preparation    
+- main.py: Main script for training and testing    
 
 
 ## How to Run
